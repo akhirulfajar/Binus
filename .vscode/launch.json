@@ -1,0 +1,15 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "externalConsole": true,
+      "cwd": "/Users/akhirulfajar/Documents/Binus/Task/Personal/Semester 1/02. Algoritma dan Pemrograman/Assignment",
+      "program": "/Users/akhirulfajar/Documents/Binus/Task/Personal/Semester 1/02. Algoritma dan Pemrograman/Assignment/build/Debug/outDebug"
+      
+    }
+  ]
+}
