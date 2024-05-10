@@ -6,10 +6,8 @@
       "type": "lldb",
       "request": "launch",
       "args": [],
-      "externalConsole": true,
-      "cwd": "/Users/akhirulfajar/Documents/Binus/Task/Personal/Semester 1/02. Algoritma dan Pemrograman/Assignment",
-      "program": "/Users/akhirulfajar/Documents/Binus/Task/Personal/Semester 1/02. Algoritma dan Pemrograman/Assignment/build/Debug/outDebug"
-      
+      "cwd": "/Users/akhirulfajar/Documents/Binus/Task/Personal/Semester 1/02. Algoritma dan Pemrograman/Learning/Sams Teach C",
+      "program": "/Users/akhirulfajar/Documents/Binus/Task/Personal/Semester 1/02. Algoritma dan Pemrograman/Learning/Sams Teach C/build/Debug/outDebug"
     }
   ]
 }
