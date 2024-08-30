@@ -2,6 +2,5 @@
 <p>Akhirul Fajar Trianto (2702451036)</p>
 <hr>
 <br>
-"Binus" adalah repositori GitHub pribadi milik saya yang saya gunakan untuk menyimpan semua tugas perkuliahan saya di Binus University, dengan jurusan Computer Science.
-Di sini, saya menyimpan berbagai kode, dokumen, dan proyek terkait pembelajaran saya di universitas. Repository ini mencatat perjalanan akademis saya mulai dari pemrograman dasar hingga konsep-konsep lanjutan. Selain itu, Anda juga bisa menemukan proyek-proyek menarik yang telah saya kerjakan selama studi di Binus University.
+"Binus" is my personal GitHub repository that I use to store all my coursework at Binus University, where I am majoring in Computer Science. In this repository, I keep various codes, documents, and projects related to my university studies. It chronicles my academic journey from basic programming to advanced concepts. Additionally, you can find interesting projects that I've worked on during my time at Binus University.
 
